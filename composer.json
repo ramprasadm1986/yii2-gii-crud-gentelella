@@ -16,7 +16,7 @@
       }
   ],
   "require": {
-    "yiisoft/yii2": "~2.0.0"
+    "yiisoft/yii2": "~2.0.0",
     "yiisoft/yii2-bootstrap4": "~2.0.0",
     "ramprasadm1986/yii2-gentelella": "~1.0"
   },
